@@ -1,4 +1,6 @@
 [
     {"keys": ["ctrl+pagedown"], "command": "next_view_in_pane" },
     {"keys": ["ctrl+pageup"], "command": "prev_view_in_pane" },
+    {"keys": ["ctrl+shift+pagedown"], "command": "next_pane" },
+    {"keys": ["ctrl+shift+pageup"], "command": "prev_pane" },
 ]
